@@ -1,0 +1,14 @@
+START
+    new_word = word
+
+    word_reversed = empty
+
+    For i from length of new_word - 1 down to 0
+        word_reversed = word_reversed + S[i]
+    
+    if new_word == word_reversed:
+        Print True
+    else:
+        Print False
+
+END
