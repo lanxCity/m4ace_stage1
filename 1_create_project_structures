@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script creates the project structure for the M4ACE Stage 1 project.
+
+mkdir -p project/{assets/{images,css,scripts},media}
