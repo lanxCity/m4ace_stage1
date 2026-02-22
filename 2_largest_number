@@ -1,0 +1,9 @@
+START
+  largest = first number
+  
+  For each number in the list
+      If number > largest
+          largest = number
+
+  Print largest
+END
